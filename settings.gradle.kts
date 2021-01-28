@@ -3,3 +3,4 @@ rootProject.name = "server"
 include("gateway")
 // API服务
 include("api")
+include("eureka")
