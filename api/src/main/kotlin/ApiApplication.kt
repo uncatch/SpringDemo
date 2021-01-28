@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 /**
- * Api服务
+ * Api服务入口
  */
 @SpringBootApplication
 open class ApiApplication
